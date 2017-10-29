@@ -3,4 +3,4 @@
 
 ![discord](http://i.imgur.com/YNdXK71.png)
 
-https://asciinema.org/a/kgQwqEPHDaZVIFPOAn61C5siZ
+https://asciinema.org/a/InkLNs6Wc2h1FIu4XZRWYkvFE

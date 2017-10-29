@@ -1,5 +1,5 @@
-dupa: main.c
-	gcc -fextended-identifiers -include robal.h -o dupa main.c
+dupa: main.cpp
+	g++ -fextended-identifiers -include robal.h -o dupa main.cpp
 
 .PHONY: clean
 
